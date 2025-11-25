@@ -1,5 +1,5 @@
 # 🐙 DevOps Core Services: Git & GitHub Reference
-![git](hhttps://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/git.gif)
+![git](https://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/git.gif)
 
 This repository provides a **comprehensive and practical guide** to using **Git** and **GitHub** — the two most essential tools for version control and collaborative development in DevOps workflows.
 
@@ -86,7 +86,7 @@ git commit -m "My first commit"
 ---
 
 ## 🌿 Branching in Git
-![git](hhttps://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/branch.gif)
+![git](https://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/branch.gif)
 
 A **branch** is like a timeline — it allows parallel development without affecting the main code.
 
