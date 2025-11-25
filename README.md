@@ -1,4 +1,5 @@
 # 🐙 DevOps Core Services: Git & GitHub Reference
+![git](hhttps://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/git.gif)
 
 This repository provides a **comprehensive and practical guide** to using **Git** and **GitHub** — the two most essential tools for version control and collaborative development in DevOps workflows.
 
@@ -85,6 +86,7 @@ git commit -m "My first commit"
 ---
 
 ## 🌿 Branching in Git
+![git](hhttps://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/branch.gif)
 
 A **branch** is like a timeline — it allows parallel development without affecting the main code.
 
@@ -257,6 +259,14 @@ git cherry-pick <commit-id>
 ---
 
 ## 📤 Push, Pull & Fetch
+
+<p align="center">
+  <img src="https://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/pull.gif" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/push.gif" width="500"/>
+</p>
 
 These commands sync changes between your **local** and **remote** repositories.
 
