@@ -261,11 +261,8 @@ git cherry-pick <commit-id>
 ## 📤 Push, Pull & Fetch
 
 <p align="center">
-  <img src="https://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/pull.gif" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/push.gif" width="500"/>
+  <img src="https://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/pull.gif" width="350">
+  <img src="https://github.com/shyamdevk/Basics-of-GIT-GitHub/blob/image/push.gif" width="350">
 </p>
 
 These commands sync changes between your **local** and **remote** repositories.
